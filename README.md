@@ -16,15 +16,8 @@ The general steps of this project are as follows:
 
 [//]: # (Image References)
 
-![](./Video/Test_drive.mp4)
 [image1]: ./train_image.png "Training Image"
 [image2]: ./recover_image.png "Recover_Image"
-[image3]: ./examples/placeholder_small.png "Recovery Image"
-[image4]: ./examples/placeholder_small.png "Recovery Image"
-[image5]: ./examples/placeholder_small.png "Recovery Image"
-[image6]: ./examples/placeholder_small.png "Normal Image"
-[image7]: ./examples/placeholder_small.png "Flipped Image"
-
 My project includes the following files:
 * model.py containing the script to create and train the model
 * drive.py for driving the car in autonomous mode
